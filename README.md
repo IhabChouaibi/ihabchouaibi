@@ -1,457 +1,208 @@
-<div align="center">
+You are an expert full-stack developer and SVG graphics engineer. Your goal is to build a complete, production-ready, ultra-cinematic, animated GitHub Profile README and automated daily update system for my GitHub profile.
 
-# Hi there, I'm Iheb Chouaibi 👋
 
-### Backend & Cloud Engineer • DevOps • Cybersecurity Enthusiast
+### [USER CONFIGURATION]
 
-Building secure and scalable applications with Java, Spring Boot, Angular,
-microservices, AI and cloud-native technologies.
+- GitHub Username: [YOUR_GITHUB_USERNAME]
 
-<p>
-  <a href="https://github.com/ihabchouaibi">
-    <img src="https://komarev.com/ghpvc/?username=ihabchouaibi&style=for-the-badge&color=0e75b6" alt="Profile views"/>
-  </a>
-  <a href="https://github.com/ihabchouaibi?tab=followers">
-    <img src="https://img.shields.io/github/followers/ihabchouaibi?style=for-the-badge&logo=github" alt="GitHub followers"/>
-  </a>
-  <a href="https://github.com/ihabchouaibi?tab=repositories">
-    <img src="https://img.shields.io/github/stars/ihabchouaibi?style=for-the-badge&logo=github" alt="GitHub stars"/>
-  </a>
-</p>
+- Full Name: [YOUR_NAME]
 
-<p>
-  <a href="https://www.linkedin.com/in/iheb-chouaibi-00b4632a2/">
-    <img src="https://img.shields.io/badge/LinkedIn-Iheb_Chouaibi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/hrms-organisation">
-    <img src="https://img.shields.io/badge/Organization-HRMS-2496ED?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://github.com/recruitment-organisation">
-    <img src="https://img.shields.io/badge/Organization-Recruitment-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+- Title / Headline: [YOUR_TITLE] (e.g., Full Stack Engineer • React Architect • 3D Web Craftsman)
 
-</div>
+- Location: [YOUR_LOCATION] (e.g., Islamabad, Pakistan | PKT UTC+5)
 
----
+- Email: [YOUR_EMAIL]
 
-# 💫 About Me
+- Portfolio URL: [YOUR_PORTFOLIO_URL]
 
-```yaml
-Name: Iheb Chouaibi
-Location: Tunisia 🇹🇳
+- Social Links:
 
-Education:
-  Bachelor's Degree in Embedded Systems
+  - LinkedIn: [YOUR_LINKEDIN_URL]
 
-Current Studies:
-  Cloud Computing and Cybersecurity
+  - Instagram: [YOUR_INSTAGRAM_URL]
 
-Current Focus:
-  - Java and Spring Boot
-  - Angular
-  - Microservices Architecture
-  - Cloud and DevOps
-  - Kubernetes and GitOps
-  - Application Security
-  - RAG and AI Integration
+  - Facebook: [YOUR_FACEBOOK_URL]
 
-Currently Building:
-  - Intelligent Recruitment Platform
-  - HRMS Microservices Platform
+- Frontend Stack: [e.g., React, TypeScript, Vite, Tailwind CSS, Three.js, Framer Motion]
 
-Engineering Interests:
-  - Distributed Systems
-  - Cloud-Native Applications
-  - DevSecOps
-  - Identity and Access Management
-  - Workflow Automation
-  - Artificial Intelligence
-```
+- Backend Stack: [e.g., Node.js, Express, Python, MySQL, Supabase, Firebase]
+
+- Mobile Stack: [e.g., React Native, Flutter]
+
+- Tools: [e.g., Git, GitHub, VS Code, Postman, Vercel, Netlify]
+
+- Featured Projects (up to 8 with links and titles):
+
+  1. Title: [PROJECT_1] | URL: [URL_1] | Subtitle: [SUBTITLE_1]
+
+  2. Title: [PROJECT_2] | URL: [URL_2] | Subtitle: [SUBTITLE_2]
+
+  3. Title: [PROJECT_3] | URL: [URL_3] | Subtitle: [SUBTITLE_3]
+
+  4. Title: [PROJECT_4] | URL: [URL_4] | Subtitle: [SUBTITLE_4]
+
 
 ---
 
-# 🚀 Featured Engineering Projects
 
-## 🧠 Intelligent Recruitment Platform
+### [TECHNICAL SPECIFICATIONS & DELIVERABLES]
 
-[![Organization](https://img.shields.io/badge/GitHub-recruitment--organisation-181717?style=flat-square&logo=github)](https://github.com/recruitment-organisation)
 
-An intelligent recruitment ecosystem combining microservices, AI-powered CV
-analysis, BPMN workflow automation and secure identity management.
+Please create the following files in the project workspace:
 
-### Main capabilities
 
-- Candidate and employee management
-- Job offer publication
-- Application and CV management
-- CV storage with MinIO
-- AI-powered CV analysis
-- RAG-based candidate matching
-- Vector search with PostgreSQL and pgvector
-- HR, technical and manager interviews
-- Recruitment workflow with Flowable BPMN
-- Authentication and roles with Keycloak
-- Asynchronous communication with Kafka
-- Docker image versioning with GitHub Actions
-- Kubernetes deployment with Argo CD
+#### 1. `scripts/prep_photo.py`
 
-### System architecture
+A Python script using `rembg` (U2Net) and `PIL` / `cv2`:
 
-```mermaid
-flowchart TD
-    USERS["Candidate • HR • Manager"] --> ANGULAR["Angular Frontend"]
-    ANGULAR --> GATEWAY["API Gateway"]
-    GATEWAY --> BUSINESS["Recruitment Services"]
-    BUSINESS --> WORKFLOW["Flowable Workflow"]
-    BUSINESS --> RAG["RAG and AI Service"]
-    BUSINESS --> DATA["PostgreSQL • Kafka • MinIO"]
-```
+- Takes an input portrait photo (e.g., `hero.png`).
 
-### Services
+- Removes the background cleanly using the U2Net model.
 
-```text
-Intelligent Recruitment Platform
-├── Infrastructure
-│   ├── Gateway Service
-│   ├── Discovery Service
-│   └── Config Service
-│
-├── Identity
-│   ├── Auth Service
-│   └── Keycloak
-│
-├── Business
-│   ├── Candidate Service
-│   ├── Employee Service
-│   ├── Job Offer Service
-│   ├── Application Service
-│   └── Interview Service
-│
-├── Process and AI
-│   ├── Workflow Service
-│   ├── Flowable BPMN
-│   ├── RAG Service
-│   └── Gemini AI
-│
-└── Data and Infrastructure
-    ├── PostgreSQL
-    ├── pgvector
-    ├── MinIO
-    └── Apache Kafka
-```
+- Applies contrast enhancement (CLAHE) and crops/resizes appropriately.
 
-### Repositories
+- Saves the output as `source-prepped.png`.
 
-| Service | Repository |
-|---|---|
-| Auth Service | [View](https://github.com/recruitment-organisation/auth-service) |
-| Candidate Service | [View](https://github.com/recruitment-organisation/candidate-service) |
-| Employee Service | [View](https://github.com/recruitment-organisation/employee-service) |
-| Job Offer Service | [View](https://github.com/recruitment-organisation/job-offer-service) |
-| Application Service | [View](https://github.com/recruitment-organisation/application-service) |
-| Interview Service | [View](https://github.com/recruitment-organisation/interview-service) |
-| Workflow Service | [View](https://github.com/recruitment-organisation/workflow-service) |
-| RAG Service | [View](https://github.com/recruitment-organisation/rag-service) |
-| Gateway Service | [View](https://github.com/recruitment-organisation/gateway-service) |
 
-### RAG Service CI/CD
+#### 2. `scripts/make_ascii_svg.py`
 
-[![RAG Service CI/CD](https://github.com/recruitment-organisation/rag-service/actions/workflows/ci.yml/badge.svg)](https://github.com/recruitment-organisation/rag-service/actions/workflows/ci.yml)
+A Python script that:
 
-[![Docker version](https://img.shields.io/docker/v/ihab0/rag-service?sort=semver&logo=docker&label=rag-service)](https://hub.docker.com/r/ihab0/rag-service)
+- Reads `source-prepped.png`.
 
-[![Docker pulls](https://img.shields.io/docker/pulls/ihab0/rag-service?logo=docker)](https://hub.docker.com/r/ihab0/rag-service)
+- Converts pixels to ASCII characters using a custom brightness-to-character density ramp (` .`:-=+*cs#%@`).
 
----
+- Generates `hxni-ascii.svg` with gold monospace typography (`#D4AF37`) inside a sleek `#0d0d0d` terminal card with rounded corners and border.
 
-## 👥 HRMS Microservices Platform
+- Implements animated line-by-line reveal using CSS keyframe animations (`@keyframes fin`) and SMIL `<clipPath>` wipe so it animates reliably inside GitHub README `<img>` tags.
 
-[![Organization](https://img.shields.io/badge/GitHub-hrms--organisation-181717?style=flat-square&logo=github)](https://github.com/hrms-organisation)
 
-A distributed Human Resources Management System designed to manage employees,
-organizational structures, leave requests, attendance and recruitment.
+#### 3. `scripts/make_info_card.py`
 
-### Main capabilities
+A Python script that generates `info-card.svg`:
 
-- Employee profile management
-- Department and job management
-- Leave requests and balances
-- Employee attendance tracking
-- Job offers and recruitment
-- Role-based access control
-- Keycloak authentication
-- Kafka-based asynchronous communication
-- Secure CV storage with MinIO and ClamAV
-- Angular interfaces for HR and employees
-- Docker and Kubernetes deployment
-- GitOps delivery with Argo CD
+- Neofetch / terminal system info style matching the height of the ASCII portrait.
 
-### System architecture
+- Top bar with macOS-style decorative terminal dots (red/yellow/green) and header title `"The Cipher Stack"`.
 
-```mermaid
-flowchart TD
-    USERS["Admin • HR • Employee"] --> ANGULAR["Angular Frontend"]
-    ANGULAR --> GATEWAY["API Gateway"]
-    GATEWAY --> SERVICES["HRMS Business Services"]
-    SERVICES --> SECURITY["Keycloak"]
-    SERVICES --> INFRA["MySQL • Kafka • MinIO"]
-```
+- Gold key labels and silver value labels showcasing OS, Host, Role, Tech Stack, Socials, Portfolio Web URL, and GitHub.
 
-### Services
+- CSS keyframe staggered fade-in per line.
 
-```text
-HRMS Platform
-├── Infrastructure
-│   ├── Gateway Service
-│   ├── Discovery Service
-│   └── Config Service
-│
-├── Identity
-│   ├── Auth Service
-│   └── Keycloak
-│
-├── Business
-│   ├── Employee Service
-│   ├── Organisation Service
-│   ├── Leave Service
-│   ├── Presence Service
-│   └── Recruitment Service
-│
-├── Frontend
-│   └── Angular Application
-│
-└── Data and Infrastructure
-    ├── MySQL
-    ├── Apache Kafka
-    ├── MinIO
-    └── ClamAV
-```
 
-### Repositories
+#### 4. `scripts/fetch_contributions.py`
 
-| Service | Repository |
-|---|---|
-| Auth Service | [View](https://github.com/hrms-organisation/HRMS-auth-service) |
-| Employee Service | [View](https://github.com/hrms-organisation/HRMS-employee-service) |
-| Organisation Service | [View](https://github.com/hrms-organisation/HRMS-organisation-service) |
-| Leave Service | [View](https://github.com/hrms-organisation/HRMS-leave-service) |
-| Presence Service | [View](https://github.com/hrms-organisation/presence-service) |
-| Recruitment Service | [View](https://github.com/hrms-organisation/HRMS-recruitment-service) |
-| Gateway Service | [View](https://github.com/hrms-organisation/HRMS-gateway-service) |
-| Discovery Service | [View](https://github.com/hrms-organisation/HRMS-discovery-service) |
-| Config Service | [View](https://github.com/hrms-organisation/HRMS-config-service) |
-| Angular Frontend | [View](https://github.com/hrms-organisation/frontend) |
+A Python script that:
+
+- Scrapes the public GitHub contribution calendar for `[YOUR_GITHUB_USERNAME]` (no API key required).
+
+- Parses daily contribution levels and counts.
+
+- Calculates total contributions, current streak, longest streak, and best day.
+
+- Saves raw data and metrics into `data/contributions.json`.
+
+
+#### 5. `scripts/render_heatmap_svg.py`
+
+A Python script that:
+
+- Reads `data/contributions.json`.
+
+- Renders a custom, high-resolution SVG contribution heatmap (`contrib-heatmap.svg`) with custom color gradients matching the profile theme.
+
+
+#### 6. `.github/workflows/update-profile-art.yml`
+
+A GitHub Actions workflow that:
+
+- Runs automatically on a daily cron schedule (e.g., 06:17 UTC every day).
+
+- Also supports `workflow_dispatch` manual triggers.
+
+- Runs `fetch_contributions.py` and `render_heatmap_svg.py`.
+
+- Commits and pushes any updated `contrib-heatmap.svg` and `data/contributions.json` back to `main` with `[skip ci]`.
+
+
+#### 7. `scripts/requirements.txt` & `scripts/requirements-ci.txt`
+
+- Full requirements: `requests`, `beautifulsoup4`, `pillow`, `numpy`, `opencv-python-headless`, `rembg[cpu]`.
+
+- CI requirements (lightweight): `requests`, `beautifulsoup4`.
+
+
+#### 8. `README.md`
+
+A master profile README structured with GitHub Flavored Markdown:
+
+1. **Top Section: Terminal Portrait & Info Card**:
+
+   - `<h3><code>The Cipher Stack</code></h3>`
+
+   - Two-column table containing `<img src="./hxni-ascii.svg" width="370" />` and `<img src="./info-card.svg" width="490" />`.
+
+2. **Middle Section: Cinematic Header**:
+
+   - Venom-style animated banner from Capsule Render.
+
+   - Profile views badge, open-to-work badge, and location badge.
+
+   - Typing SVG animation banner cycling through impactful developer quotes.
+
+3. **Third Section: Live Contribution Heatmap**:
+
+   - `<h3><code>Contributions</code></h3>`
+
+   - `<img src="./contrib-heatmap.svg" width="860" />`.
+
+4. **Featured Gallery**:
+
+   - 2-column responsive HTML table linking to top projects with preview images and descriptions.
+
+5. **Tech Arsenal**:
+
+   - Dark theme Skillicons badge grids organized by Frontend/3D, Backend/Database, Mobile, and Tools/DevOps.
+
+6. **What I'm Up To**:
+
+   - Clean markdown table for Currently Building, Learning, and Fun Facts.
+
+7. **Achievements**:
+
+   - Official GitHub achievement badges (Pair Extraordinaire, Pull Shark, YOLO, Starstruck).
+
+8. **Socials & Connect**:
+
+   - `<h3><code>Socials</code></h3>`
+
+   - Custom Shields.io badges for LinkedIn, Instagram, Facebook, Gmail, GitHub, and Portfolio.
+
+   - Dynamic QR code generator widget pointing to the live portfolio URL.
+
+   - Footer wave banner.
+
 
 ---
 
-# 💻 Technical Stack
 
-## Backend
+### [EXECUTION STEPS]
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,maven" alt="Backend technologies"/>
-</p>
+1. Generate all the script files and workflows.
 
-- Java 21
-- Spring Boot
-- Spring Cloud
-- Spring Security
-- Spring Data JPA
-- OpenFeign
-- REST APIs
-- Flowable BPMN
+2. Initialize virtual environment and install dependencies.
 
-## Frontend
+3. Run the scripts in sequence:
 
-<p>
-  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css" alt="Frontend technologies"/>
-</p>
+   `python scripts/prep_photo.py hero.png`
 
-- Angular
-- TypeScript
-- Responsive interfaces
-- Role-based layouts
-- Reusable UI components
+   `python scripts/make_ascii_svg.py`
 
-## Databases and Storage
+   `python scripts/make_info_card.py`
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis" alt="Databases"/>
-</p>
+   `python scripts/fetch_contributions.py`
 
-- PostgreSQL
-- MySQL
-- pgvector
-- MinIO Object Storage
+   `python scripts/render_heatmap_svg.py`
 
-## Security
+4. Assemble and verify the complete `README.md`.
 
-<p>
-  <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OAuth_2.0-3C873A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OpenID_Connect-F78C40?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens"/>
-</p>
-
-- Authentication and authorization
-- Role-Based Access Control
-- OAuth2 Resource Server
-- OpenID Connect
-- JWT access and refresh tokens
-- Gateway security
-- Service-to-service security
-
-## Messaging and Workflow
-
-<p>
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flowable-BPMN-FF6B35?style=for-the-badge"/>
-</p>
-
-- Event-driven communication
-- Asynchronous processing
-- BPMN workflow orchestration
-- Business process automation
-
-## AI and Data
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python" alt="AI technologies"/>
-</p>
-
-- Retrieval-Augmented Generation
-- Embeddings
-- Vector similarity search
-- PostgreSQL with pgvector
-- Gemini AI
-- PDF extraction
-- Candidate matching
-
-## DevOps and Cloud
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,git,github,linux" alt="DevOps technologies"/>
-</p>
-
-- Docker
-- Docker Compose
-- Kubernetes
-- GitHub Actions
-- Argo CD
-- GitOps
-- Versioned Docker images
-- CI/CD pipelines
-
----
-
-# 🏆 Engineering Experience
-
-✔️ Microservices architecture
-
-✔️ REST API design and integration
-
-✔️ Authentication and authorization
-
-✔️ Event-driven communication with Kafka
-
-✔️ BPMN workflow automation
-
-✔️ RAG and vector search integration
-
-✔️ Database-per-service architecture
-
-✔️ Object storage with MinIO
-
-✔️ Docker image optimization
-
-✔️ Kubernetes orchestration
-
-✔️ GitHub Actions CI/CD
-
-✔️ GitOps deployment with Argo CD
-
-✔️ Agile development and Scrum
-
----
-
-# 📈 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ihabchouaibi&theme=tokyonight"/>
-
-<br><br>
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ihabchouaibi&theme=tokyonight"/>
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ihabchouaibi&theme=tokyonight"/>
-
-<br><br>
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ihabchouaibi&theme=tokyonight"/>
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ihabchouaibi&theme=tokyonight&utcOffset=1"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ihabchouaibi&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🌱 Currently Learning
-
-- Cloud architecture
-- Advanced Kubernetes
-- DevSecOps
-- Distributed systems
-- Application security
-- AI agents
-- RAG architecture
-- System observability
-
----
-
-# 🎯 2026 Goals
-
-- Complete the Intelligent Recruitment Platform
-- Build a production-ready RAG pipeline
-- Improve my Kubernetes and GitOps expertise
-- Strengthen my cybersecurity knowledge
-- Obtain Cloud and Security certifications
-- Contribute to open-source projects
-
----
-
-# 📫 Contact
-
-💼 **LinkedIn**
-
-[Iheb Chouaibi](https://www.linkedin.com/in/iheb-chouaibi-00b4632a2/)
-
-💻 **GitHub**
-
-[ihabchouaibi](https://github.com/ihabchouaibi)
-
-🏢 **Organizations**
-
-- [HRMS Organisation](https://github.com/hrms-organisation)
-- [Recruitment Organisation](https://github.com/recruitment-organisation)
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-*"Building secure, intelligent and scalable systems."*
-
-</div>
