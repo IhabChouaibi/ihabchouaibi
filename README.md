@@ -1,46 +1,48 @@
-README-scroll-cinematic-premium.md
-
-
-<!-- ╔══════════════════════════════════════════════════════════════════════════════╗ ║ IHEB CHOUAIBI — SCROLL CINEMATIC EDITION ║ ║ Single-file GitHub README • Neon Aurora • Terminal • Cloud Native ║ ╚══════════════════════════════════════════════════════════════════════════════╝ -->
+<!-- ╔══════════════════════════════════════════════════════════════════════════════╗
+     ║ IHEB CHOUAIBI — SCROLL CINEMATIC EDITION (v2)                                   ║
+     ║ Single-file GitHub README • Neon Aurora • Terminal • Cloud Native               ║
+     ╚══════════════════════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=330&color=0:020617,18:172554,36:312E81,54:7C3AED,72:DB2777,88:0891B2,100:F59E0B&text=IHEB%20CHOUAIBI&fontColor=FFFFFF&fontSize=58&fontAlignY=38&stroke=F8FAFC&strokeWidth=1&desc=BACKEND%20ENGINEER%20%E2%80%A2%20CLOUD%20%E2%80%A2%20DEVOPS%20%E2%80%A2%20CYBERSECURITY&descAlignY=57&descSize=17&animation=fadeIn" alt="Iheb Chouaibi"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:020617,15:1E1B4B,35:4C1D95,55:7C3AED,75:DB2777,90:0891B2,100:F59E0B&text=IHEB%20CHOUAIBI&fontColor=FFFFFF&fontSize=60&fontAlignY=35&stroke=F8FAFC&strokeWidth=1&desc=BACKEND%20ENGINEER%20%E2%80%A2%20CLOUD%20%E2%80%A2%20DEVOPS%20%E2%80%A2%20CYBERSECURITY&descAlignY=56&descSize=17&animation=twinkling" alt="Iheb Chouaibi"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=1800&pause=450&color=22D3EE&center=true&vCenter=true&repeat=true&width=1080&height=72&lines=%3E+initializing+engineering+runtime...;%3E+Spring+Boot+microservices+online.;%3E+Kubernetes+control+plane+ready.;%3E+Argo+CD+GitOps+sync+healthy.;%3E+Keycloak+security+context+loaded.;%3E+Kafka+event+stream+connected.;%3E+RAG+%2B+pgvector+%2B+Gemini+indexed.;%3E+system+status%3A+READY." alt="Animated terminal"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/ENGINEERING%20MODE-ACTIVE-22D3EE?style=for-the-badge&labelColor=020617"/> <img src="https://img.shields.io/badge/OPEN%20TO-OPPORTUNITIES-F59E0B?style=for-the-badge&labelColor=020617"/> <img src="https://komarev.com/ghpvc/?username=IhabChouaibi&label=PROFILE%20SIGNAL&color=7C3AED&style=for-the-badge"/> <img src="https://img.shields.io/badge/BASE-TUNISIA-DB2777?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/ENGINEERING%20MODE-ACTIVE-22D3EE?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/OPEN%20TO-OPPORTUNITIES-F59E0B?style=for-the-badge&labelColor=020617"/>
+<img src="https://komarev.com/ghpvc/?username=IhabChouaibi&label=PROFILE%20SIGNAL&color=7C3AED&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BASE-TUNISIA-DB2777?style=for-the-badge&labelColor=020617"/>
 
 <br/><br/>
 
-<a href="https://github.com/IhabChouaibi"> <img src="https://img.shields.io/badge/GITHUB-IhabChouaibi-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/iheb-chouaibi-00b4632a2/"> <img src="https://img.shields.io/badge/LINKEDIN-Iheb%20Chouaibi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/recruitment-organisation"> <img src="https://img.shields.io/badge/RECRUITMENT-ORG-7C3AED?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://github.com/hrms-organisation"> <img src="https://img.shields.io/badge/HRMS-ORG-0891B2?style=for-the-badge&logo=github&logoColor=white"/> </a>
+<a href="https://github.com/IhabChouaibi"><img src="https://img.shields.io/badge/GITHUB-IhabChouaibi-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/iheb-chouaibi-00b4632a2/"><img src="https://img.shields.io/badge/LINKEDIN-Iheb%20Chouaibi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/recruitment-organisation"><img src="https://img.shields.io/badge/RECRUITMENT-ORG-7C3AED?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/hrms-organisation"><img src="https://img.shields.io/badge/HRMS-ORG-0891B2?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/><br/>
 
-<code>secure by design</code>
-  ✦  
-<code>automated by default</code>
-  ✦  
-<code>observable in production</code>
-  ✦  
-<code>engineered to scale</code>
+<code>secure by design</code> ✦ <code>automated by default</code> ✦ <code>observable in production</code> ✦ <code>engineered to scale</code>
 
 </div>
 
 <br/>
 
-<div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=7&color=0:22D3EE,20:3B82F6,40:7C3AED,60:DB2777,80:F59E0B,100:10B981"/> </div>
-
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=105&color=0:020617,40:0F172A,100:172554&text=00%20%2F%2F%20SYSTEM%20BOOT&fontColor=22D3EE&fontSize=28&fontAlignY=50&animation=fadeIn"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=1200&pause=260&color=A78BFA&center=true&vCenter=true&width=960&lines=%5BOK%5D+identity.module;%5BOK%5D+cloud.toolchain;%5BOK%5D+security.context;%5BOK%5D+distributed.runtime;%5BOK%5D+ai.pipeline;%5BREADY%5D+interactive+engineering+profile" alt="Boot animation"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:22D3EE,20:3B82F6,40:7C3AED,60:DB2777,80:F59E0B,100:10B981"/>
 </div>
 
+<!-- ============================== 00 // SYSTEM BOOT ============================== -->
+
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=100&color=0:020617,50:0F172A,100:1E1B4B&text=00%20%2F%2F%20SYSTEM%20BOOT&fontColor=22D3EE&fontSize=26&fontAlignY=52&animation=fadeIn"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=1200&pause=260&color=A78BFA&center=true&vCenter=true&width=960&lines=%5BOK%5D+identity.module;%5BOK%5D+cloud.toolchain;%5BOK%5D+security.context;%5BOK%5D+distributed.runtime;%5BOK%5D+ai.pipeline;%5BREADY%5D+interactive+engineering+profile" alt="Boot animation"/>
+</div>
+
+```
 ┌──────────────────────────────────────────────────────────────────────────────┐
 │  IHEB://ENGINEERING_RUNTIME                                                  │
 ├──────────────────────────────────────────────────────────────────────────────┤
@@ -55,20 +57,23 @@ README-scroll-cinematic-premium.md
 │  AI            RAG • Embeddings • Gemini • Vector Search                     │
 │  STATUS        ● ONLINE                                                      │
 └──────────────────────────────────────────────────────────────────────────────┘
+```
+
+<!-- ============================== 01 // IDENTITY MATRIX ============================== -->
+
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=105&color=0:172554,45:312E81,100:7C3AED&text=01%20%2F%2F%20IDENTITY%20MATRIX&fontColor=FFFFFF&fontSize=28&fontAlignY=50&animation=fadeIn"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=100&color=0:1E1B4B,50:4C1D95,100:7C3AED&text=01%20%2F%2F%20IDENTITY%20MATRIX&fontColor=FFFFFF&fontSize=26&fontAlignY=52&animation=fadeIn"/>
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2100&pause=800&color=C4B5FD&center=true&vCenter=true&width=900&lines=Backend+Engineering+%E2%80%A2+Distributed+Systems+%E2%80%A2+Platform+Engineering;Cloud+Native+%E2%80%A2+DevSecOps+%E2%80%A2+AI+Integration" alt="Identity animation"/>
-
 </div>
 
-<table> <tr> <td width="56%" valign="top">
+<table>
+<tr>
+<td width="56%" valign="top">
 
+```yaml
 > whoami
 name: Iheb Chouaibi
 location: Tunisia
-
 roles:
   - Backend Engineer
   - Cloud / DevOps Engineer
@@ -81,29 +86,30 @@ engineering:
     - Spring Cloud
     - Spring Security
     - OpenFeign
-
   platform:
     - Docker
     - Kubernetes
     - Helm
     - Argo CD
     - GitOps
-
   security:
     - Keycloak
     - OAuth2
     - OpenID Connect
     - JWT
     - RBAC
-
   intelligence:
     - RAG
     - Embeddings
     - Vector Search
     - Gemini
     - pgvector
-</td> <td width="44%" valign="top">
+```
 
+</td>
+<td width="44%" valign="top">
+
+```text
 > capability_signal
 BACKEND          ████████████████████
 MICROSERVICES    ████████████████████
@@ -113,142 +119,130 @@ CLOUD            ██████████████████░░
 SECURITY         ██████████████████░░
 AI / RAG         █████████████████░░░
 OBSERVABILITY    ████████████████░░░░
+
 > state
 + building cloud-native platforms
 + shipping with GitOps
 + automating CI/CD
 + securing identity boundaries
 + exploring AI-native systems
-</td> </tr> </table>
+```
+
+</td>
+</tr>
+</table>
+
+<!-- ============================== 02 // THE CIPHER STACK ============================== -->
 
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=105&color=0:0C4A6E,45:0891B2,100:22D3EE&text=02%20%2F%2F%20THE%20CIPHER%20STACK&fontColor=FFFFFF&fontSize=28&fontAlignY=50&animation=fadeIn"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=100&color=0:0C4A6E,50:0891B2,100:22D3EE&text=02%20%2F%2F%20THE%20CIPHER%20STACK&fontColor=FFFFFF&fontSize=26&fontAlignY=52&animation=fadeIn"/>
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=1950&pause=700&color=67E8F9&center=true&vCenter=true&width=960&lines=DESIGN+%E2%86%92+BUILD+%E2%86%92+SECURE+%E2%86%92+SHIP+%E2%86%92+OBSERVE+%E2%86%92+IMPROVE;From+source+code+to+cloud-native+runtime." alt="Stack animation"/>
-
 </div>
 
-BACKEND // DISTRIBUTED SYSTEMS
+<h4 align="center">BACKEND // DISTRIBUTED SYSTEMS</h4>
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=java,spring,maven,python,kafka&theme=dark"/>
-
 <br/><br/>
-
-<img src="https://img.shields.io/badge/JAVA%2021-020617?style=for-the-badge&logo=openjdk&logoColor=22D3EE"/> <img src="https://img.shields.io/badge/SPRING%20BOOT-020617?style=for-the-badge&logo=springboot&logoColor=34D399"/> <img src="https://img.shields.io/badge/SPRING%20CLOUD-020617?style=for-the-badge&logo=spring&logoColor=A78BFA"/> <img src="https://img.shields.io/badge/SPRING%20SECURITY-020617?style=for-the-badge&logo=springsecurity&logoColor=F472B6"/> <img src="https://img.shields.io/badge/OPENFEIGN-020617?style=for-the-badge&logoColor=FBBF24"/> <img src="https://img.shields.io/badge/FLOWABLE%20BPMN-020617?style=for-the-badge&logoColor=38BDF8"/>
-
+<img src="https://img.shields.io/badge/JAVA%2021-020617?style=for-the-badge&logo=openjdk&logoColor=22D3EE"/>
+<img src="https://img.shields.io/badge/SPRING%20BOOT-020617?style=for-the-badge&logo=springboot&logoColor=34D399"/>
+<img src="https://img.shields.io/badge/SPRING%20CLOUD-020617?style=for-the-badge&logo=spring&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/SPRING%20SECURITY-020617?style=for-the-badge&logo=springsecurity&logoColor=F472B6"/>
+<img src="https://img.shields.io/badge/OPENFEIGN-020617?style=for-the-badge&logoColor=FBBF24"/>
+<img src="https://img.shields.io/badge/FLOWABLE%20BPMN-020617?style=for-the-badge&logoColor=38BDF8"/>
 </div>
 
-FRONTEND // EXPERIENCE LAYER
+<h4 align="center">FRONTEND // EXPERIENCE LAYER</h4>
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css&theme=dark"/>
-
 <br/><br/>
-
-<img src="https://img.shields.io/badge/ANGULAR-0F172A?style=for-the-badge&logo=angular&logoColor=FB7185"/> <img src="https://img.shields.io/badge/TYPESCRIPT-0F172A?style=for-the-badge&logo=typescript&logoColor=38BDF8"/> <img src="https://img.shields.io/badge/MODULAR%20UI-0F172A?style=for-the-badge&logoColor=C084FC"/> <img src="https://img.shields.io/badge/ROLE%20BASED%20UX-0F172A?style=for-the-badge&logoColor=FACC15"/>
-
+<img src="https://img.shields.io/badge/ANGULAR-0F172A?style=for-the-badge&logo=angular&logoColor=FB7185"/>
+<img src="https://img.shields.io/badge/TYPESCRIPT-0F172A?style=for-the-badge&logo=typescript&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/MODULAR%20UI-0F172A?style=for-the-badge&logoColor=C084FC"/>
+<img src="https://img.shields.io/badge/ROLE%20BASED%20UX-0F172A?style=for-the-badge&logoColor=FACC15"/>
 </div>
 
-DATA // STORAGE // STREAMING
+<h4 align="center">DATA // STORAGE // STREAMING</h4>
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,kafka&theme=dark"/>
-
 <br/><br/>
-
-<img src="https://img.shields.io/badge/POSTGRESQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=22D3EE"/> <img src="https://img.shields.io/badge/MYSQL-0F172A?style=for-the-badge&logo=mysql&logoColor=F59E0B"/> <img src="https://img.shields.io/badge/PGVECTOR-0F172A?style=for-the-badge&logo=postgresql&logoColor=C084FC"/> <img src="https://img.shields.io/badge/MINIO-0F172A?style=for-the-badge&logo=minio&logoColor=FB7185"/> <img src="https://img.shields.io/badge/APACHE%20KAFKA-0F172A?style=for-the-badge&logo=apachekafka&logoColor=34D399"/>
-
+<img src="https://img.shields.io/badge/POSTGRESQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=22D3EE"/>
+<img src="https://img.shields.io/badge/MYSQL-0F172A?style=for-the-badge&logo=mysql&logoColor=F59E0B"/>
+<img src="https://img.shields.io/badge/PGVECTOR-0F172A?style=for-the-badge&logo=postgresql&logoColor=C084FC"/>
+<img src="https://img.shields.io/badge/MINIO-0F172A?style=for-the-badge&logo=minio&logoColor=FB7185"/>
+<img src="https://img.shields.io/badge/APACHE%20KAFKA-0F172A?style=for-the-badge&logo=apachekafka&logoColor=34D399"/>
 </div>
 
-PLATFORM // CLOUD // DEVOPS
+<h4 align="center">PLATFORM // CLOUD // DEVOPS</h4>
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,githubactions,git,github,linux&theme=dark"/>
-
 <br/><br/>
-
-<img src="https://img.shields.io/badge/DOCKER-0B1120?style=for-the-badge&logo=docker&logoColor=38BDF8"/> <img src="https://img.shields.io/badge/KUBERNETES-0B1120?style=for-the-badge&logo=kubernetes&logoColor=60A5FA"/> <img src="https://img.shields.io/badge/HELM-0B1120?style=for-the-badge&logo=helm&logoColor=A78BFA"/> <img src="https://img.shields.io/badge/ARGO%20CD-0B1120?style=for-the-badge&logo=argo&logoColor=FB923C"/> <img src="https://img.shields.io/badge/GITOPS-0B1120?style=for-the-badge&logo=git&logoColor=FB7185"/> <img src="https://img.shields.io/badge/GITHUB%20ACTIONS-0B1120?style=for-the-badge&logo=githubactions&logoColor=22D3EE"/>
-
+<img src="https://img.shields.io/badge/DOCKER-0B1120?style=for-the-badge&logo=docker&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/KUBERNETES-0B1120?style=for-the-badge&logo=kubernetes&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/HELM-0B1120?style=for-the-badge&logo=helm&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/ARGO%20CD-0B1120?style=for-the-badge&logo=argo&logoColor=FB923C"/>
+<img src="https://img.shields.io/badge/GITOPS-0B1120?style=for-the-badge&logo=git&logoColor=FB7185"/>
+<img src="https://img.shields.io/badge/GITHUB%20ACTIONS-0B1120?style=for-the-badge&logo=githubactions&logoColor=22D3EE"/>
 </div>
+
+<!-- ============================== 03 // FEATURED SYSTEMS ============================== -->
 
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=105&color=0:4C1D95,45:7C3AED,100:DB2777&text=03%20%2F%2F%20FEATURED%20SYSTEMS&fontColor=FFFFFF&fontSize=28&fontAlignY=50&animation=fadeIn"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=100&color=0:4C1D95,50:7C3AED,100:DB2777&text=03%20%2F%2F%20FEATURED%20SYSTEMS&fontColor=FFFFFF&fontSize=26&fontAlignY=52&animation=fadeIn"/>
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=1750&pause=650&color=F9A8D4&center=true&vCenter=true&width=940&lines=Systems+engineered+beyond+CRUD.;Cloud-native.+Event-driven.+Secure.+AI-aware." alt="Projects animation"/>
-
 </div>
 
-<table> <tr> <td width="50%" valign="top">
+<table>
+<tr>
+<td width="50%" valign="top">
 
 <h3 align="center">🧠 Intelligent Recruitment Platform</h3>
-
-<p align="center"> <img src="https://img.shields.io/badge/AI%20NATIVE-7C3AED?style=flat-square&labelColor=111827"/> <img src="https://img.shields.io/badge/MICROSERVICES-0891B2?style=flat-square&labelColor=111827"/> <img src="https://img.shields.io/badge/CLOUD%20READY-10B981?style=flat-square&labelColor=111827"/> </p>
+<p align="center">
+<img src="https://img.shields.io/badge/AI%20NATIVE-7C3AED?style=flat-square&labelColor=111827"/>
+<img src="https://img.shields.io/badge/MICROSERVICES-0891B2?style=flat-square&labelColor=111827"/>
+<img src="https://img.shields.io/badge/CLOUD%20READY-10B981?style=flat-square&labelColor=111827"/>
+</p>
 
 AI-powered recruitment ecosystem combining distributed services, semantic analysis, workflow automation and secure identity.
 
-Core
+**Core**
+`Spring Boot microservices` · `Angular` · `Keycloak` · `Kafka` · `Flowable BPMN` · `MinIO` · `PostgreSQL + pgvector` · `Gemini / RAG` · `Kubernetes / GitOps`
 
-Spring Boot microservices
-
-Angular
-
-Keycloak
-
-Kafka
-
-Flowable BPMN
-
-MinIO
-
-PostgreSQL + pgvector
-
-Gemini / RAG
-
-Kubernetes / GitOps
-
-<p align="center"> <a href="https://github.com/recruitment-organisation"> <img src="https://img.shields.io/badge/EXPLORE%20PLATFORM-7C3AED?style=for-the-badge&logo=github&logoColor=white"/> </a> </p>
+<p align="center">
+<a href="https://github.com/recruitment-organisation"><img src="https://img.shields.io/badge/EXPLORE%20PLATFORM-7C3AED?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 </td>
-
 <td width="50%" valign="top">
 
 <h3 align="center">☸️ Recruitment GitOps</h3>
-
-<p align="center"> <img src="https://img.shields.io/badge/DECLARATIVE-0891B2?style=flat-square&labelColor=111827"/> <img src="https://img.shields.io/badge/ARGO%20CD-F97316?style=flat-square&labelColor=111827"/> <img src="https://img.shields.io/badge/HELM-A78BFA?style=flat-square&labelColor=111827"/> </p>
+<p align="center">
+<img src="https://img.shields.io/badge/DECLARATIVE-0891B2?style=flat-square&labelColor=111827"/>
+<img src="https://img.shields.io/badge/ARGO%20CD-F97316?style=flat-square&labelColor=111827"/>
+<img src="https://img.shields.io/badge/HELM-A78BFA?style=flat-square&labelColor=111827"/>
+</p>
 
 Declarative Kubernetes delivery for the entire recruitment platform.
 
-Core
+**Core**
+`ApplicationSets` · `Local / production overlays` · `Reusable Helm charts` · `Automated sync` · `Self-healing` · `Versioned images` · `Ingress` · `Production deployment`
 
-ApplicationSets
+<p align="center">
+<a href="https://github.com/recruitment-organisation/recruitment-gitops"><img src="https://img.shields.io/badge/OPEN%20GITOPS-F97316?style=for-the-badge&logo=argo&logoColor=white"/></a>
+</p>
 
-Local / production overlays
-
-Reusable Helm charts
-
-Automated sync
-
-Self-healing
-
-Versioned images
-
-Ingress
-
-Production deployment
-
-<p align="center"> <a href="https://github.com/recruitment-organisation/recruitment-gitops"> <img src="https://img.shields.io/badge/OPEN%20GITOPS-F97316?style=for-the-badge&logo=argo&logoColor=white"/> </a> </p>
-
-</td> </tr>
-
-<tr> <td width="50%" valign="top">
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 <h3 align="center">🤖 RAG Service</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/SPRING%20AI-10B981?style=flat-square&labelColor=111827"/>
+<img src="https://img.shields.io/badge/GEMINI-7C3AED?style=flat-square&labelColor=111827"/>
+<img src="https://img.shields.io/badge/PGVECTOR-0891B2?style=flat-square&labelColor=111827"/>
+</p>
 
-<p align="center"> <img src="https://img.shields.io/badge/SPRING%20AI-10B981?style=flat-square&labelColor=111827"/> <img src="https://img.shields.io/badge/GEMINI-7C3AED?style=flat-square&labelColor=111827"/> <img src="https://img.shields.io/badge/PGVECTOR-0891B2?style=flat-square&labelColor=111827"/> </p>
-
+```
 PDF → EXTRACT → CHUNK → EMBED
                       │
                       ▼
@@ -256,64 +250,55 @@ PDF → EXTRACT → CHUNK → EMBED
                       │
                       ▼
              RETRIEVE → GEMINI → SCORE
-<p align="center"> <a href="https://github.com/recruitment-organisation/rag-service"> <img src="https://img.shields.io/badge/OPEN%20RAG%20SERVICE-10B981?style=for-the-badge&logo=github&logoColor=white"/> </a> </p>
+```
+
+<p align="center">
+<a href="https://github.com/recruitment-organisation/rag-service"><img src="https://img.shields.io/badge/OPEN%20RAG%20SERVICE-10B981?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 </td>
-
 <td width="50%" valign="top">
 
 <h3 align="center">👥 HRMS Microservices Platform</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/HR%20SYSTEM-DB2777?style=flat-square&labelColor=111827"/>
+<img src="https://img.shields.io/badge/EVENT%20DRIVEN-7C3AED?style=flat-square&labelColor=111827"/>
+<img src="https://img.shields.io/badge/KUBERNETES-0891B2?style=flat-square&labelColor=111827"/>
+</p>
 
-<p align="center"> <img src="https://img.shields.io/badge/HR%20SYSTEM-DB2777?style=flat-square&labelColor=111827"/> <img src="https://img.shields.io/badge/EVENT%20DRIVEN-7C3AED?style=flat-square&labelColor=111827"/> <img src="https://img.shields.io/badge/KUBERNETES-0891B2?style=flat-square&labelColor=111827"/> </p>
+**Capabilities**
+`Employee lifecycle` · `Recruitment` · `Leave & attendance` · `Identity & RBAC` · `Kafka` · `MinIO` · `Kubernetes` · `GitOps`
 
-Capabilities
+<p align="center">
+<a href="https://github.com/hrms-organisation"><img src="https://img.shields.io/badge/OPEN%20HRMS-DB2777?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
-Employee lifecycle
+</td>
+</tr>
+</table>
 
-Recruitment
-
-Leave & attendance
-
-Identity & RBAC
-
-Kafka
-
-MinIO
-
-Kubernetes
-
-GitOps
-
-<p align="center"> <a href="https://github.com/hrms-organisation"> <img src="https://img.shields.io/badge/OPEN%20HRMS-DB2777?style=for-the-badge&logo=github&logoColor=white"/> </a> </p>
-
-</td> </tr> </table>
+<!-- ============================== 04 // PLATFORM TOPOLOGY ============================== -->
 
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=105&color=0:064E3B,45:059669,100:10B981&text=04%20%2F%2F%20PLATFORM%20TOPOLOGY&fontColor=FFFFFF&fontSize=28&fontAlignY=50&animation=fadeIn"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=100&color=0:064E3B,50:059669,100:10B981&text=04%20%2F%2F%20PLATFORM%20TOPOLOGY&fontColor=FFFFFF&fontSize=26&fontAlignY=52&animation=fadeIn"/>
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=1800&pause=750&color=6EE7B7&center=true&vCenter=true&width=920&lines=Users+%E2%86%92+Gateway+%E2%86%92+Services+%E2%86%92+Events+%E2%86%92+Data+%E2%86%92+AI;Distributed+by+design.+Integrated+by+contract." alt="Architecture animation"/>
-
 </div>
 
+```mermaid
 flowchart TB
     C["Candidate"]:::pink
     HR["HR"]:::cyan
     M["Manager"]:::gold
-
     C --> UI["Angular Frontend"]
     HR --> UI
     M --> UI
-
     UI --> GW["API Gateway"]
-
     GW --> AUTH["Auth Service"]
     GW --> CAND["Candidate Service"]
     GW --> APP["Application Service"]
     GW --> JOB["Job Offer Service"]
     GW --> INT["Interview Service"]
     GW --> EMP["Employee Service"]
-
     AUTH --> KC["Keycloak"]
     APP --> MINIO["MinIO"]
     APP --> WF["Workflow Service"]
@@ -321,7 +306,6 @@ flowchart TB
     APP --> RAG["RAG Service"]
     RAG --> PGV["PostgreSQL + pgvector"]
     RAG --> GEM["Gemini AI"]
-
     CAND --> KAFKA["Kafka"]
     APP --> KAFKA
     INT --> KAFKA
@@ -331,19 +315,20 @@ flowchart TB
     classDef pink fill:#DB2777,color:#FFFFFF,stroke:#F472B6,stroke-width:2px;
     classDef gold fill:#F59E0B,color:#111827,stroke:#FBBF24,stroke-width:2px;
     classDef dark fill:#111827,color:#F8FAFC,stroke:#7C3AED,stroke-width:1px;
-
     class C pink;
     class HR cyan;
     class M gold;
     class UI,GW,AUTH,CAND,APP,JOB,INT,EMP,KC,MINIO,WF,FLOW,RAG,PGV,GEM,KAFKA dark;
+```
+
+<!-- ============================== 05 // DELIVERY PIPELINE ============================== -->
+
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=105&color=0:78350F,45:D97706,100:F59E0B&text=05%20%2F%2F%20DELIVERY%20PIPELINE&fontColor=FFFFFF&fontSize=28&fontAlignY=50&animation=fadeIn"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=100&color=0:78350F,50:D97706,100:F59E0B&text=05%20%2F%2F%20DELIVERY%20PIPELINE&fontColor=FFFFFF&fontSize=26&fontAlignY=52&animation=fadeIn"/>
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=1550&pause=550&color=FCD34D&center=true&vCenter=true&width=980&lines=SOURCE+%E2%86%92+CI+%E2%86%92+TEST+%E2%86%92+IMAGE+%E2%86%92+GITOPS+%E2%86%92+ARGO+CD+%E2%86%92+KUBERNETES;Repeatable.+Declarative.+Recoverable." alt="Pipeline animation"/>
-
 </div>
 
+```mermaid
 flowchart LR
     CODE["Code"]:::violet --> PR["Pull Request"]:::violet
     PR --> CI["GitHub Actions"]:::cyan
@@ -354,7 +339,6 @@ flowchart LR
     GITOPS --> ARGO["Argo CD"]:::gold
     ARGO --> K8S["Kubernetes"]:::gold
     K8S --> OBS["Observe"]:::green
-
     OBS -. feedback .-> CODE
 
     classDef violet fill:#7C3AED,color:#FFFFFF,stroke:#A78BFA;
@@ -362,17 +346,20 @@ flowchart LR
     classDef pink fill:#DB2777,color:#FFFFFF,stroke:#F472B6;
     classDef gold fill:#F59E0B,color:#111827,stroke:#FBBF24;
     classDef green fill:#059669,color:#FFFFFF,stroke:#34D399;
+```
+
+<!-- ============================== 06 // SECURITY MODEL ============================== -->
+
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=105&color=0:4C0519,45:BE123C,100:DB2777&text=06%20%2F%2F%20SECURITY%20MODEL&fontColor=FFFFFF&fontSize=28&fontAlignY=50&animation=fadeIn"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=100&color=0:4C0519,50:BE123C,100:DB2777&text=06%20%2F%2F%20SECURITY%20MODEL&fontColor=FFFFFF&fontSize=26&fontAlignY=52&animation=fadeIn"/>
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=1700&pause=650&color=FDA4AF&center=true&vCenter=true&width=940&lines=Authentication+is+not+authorization.;Trust+boundaries+must+be+explicit.;Least+privilege+by+default." alt="Security animation"/>
-
 </div>
 
-<table> <tr> <td width="33%" align="center" valign="top">
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
 
-IDENTITY
+**IDENTITY**
 🔐 Keycloak
 🔑 OAuth2
 🪪 OpenID Connect
@@ -380,10 +367,9 @@ IDENTITY
 👥 RBAC
 
 </td>
-
 <td width="33%" align="center" valign="top">
 
-BOUNDARIES
+**BOUNDARIES**
 🛡️ Gateway Security
 🧱 Service Isolation
 🔒 Resource Servers
@@ -391,48 +377,52 @@ BOUNDARIES
 📜 Least Privilege
 
 </td>
-
 <td width="33%" align="center" valign="top">
 
-DEVSECOPS
+**DEVSECOPS**
 🔍 Secure-by-design
 ⚙️ Automated CI/CD
 📦 Immutable Images
 ☸️ Runtime Controls
 📡 Visibility
 
-</td> </tr> </table>
+</td>
+</tr>
+</table>
 
-external user
-     │
-     ▼
- authentication
-     │
-     ▼
- identity provider ──► signed token ──► gateway
-                                      │
-                                      ▼
-                                resource server
-                                      │
-                                      ▼
-                                  business API
+```mermaid
+sequenceDiagram
+    participant U as External User
+    participant IDP as Identity Provider
+    participant GW as Gateway
+    participant RS as Resource Server
+    participant API as Business API
+
+    U->>IDP: Authenticate
+    IDP-->>U: Signed Token (JWT)
+    U->>GW: Request + Token
+    GW->>GW: Validate Token
+    GW->>RS: Forward (scoped)
+    RS->>RS: Enforce RBAC
+    RS->>API: Authorized Call
+    API-->>U: Response
+```
+
+<!-- ============================== 07 // AI + RAG PIPELINE ============================== -->
+
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=105&color=0:083344,35:0E7490,70:7C3AED,100:DB2777&text=07%20%2F%2F%20AI%20%2B%20RAG%20PIPELINE&fontColor=FFFFFF&fontSize=28&fontAlignY=50&animation=fadeIn"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=100&color=0:083344,30:0E7490,65:7C3AED,100:DB2777&text=07%20%2F%2F%20AI%20%2B%20RAG%20PIPELINE&fontColor=FFFFFF&fontSize=26&fontAlignY=52&animation=fadeIn"/>
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=1650&pause=600&color=67E8F9&center=true&vCenter=true&width=950&lines=RETRIEVE+%E2%86%92+AUGMENT+%E2%86%92+GENERATE;Semantic+search+meets+workflow+automation." alt="RAG animation"/>
-
 </div>
 
+```mermaid
 flowchart LR
     CV["CV / PDF"]:::cyan --> EXT["Extract Text"]:::dark
     EXT --> CH["Chunk"]:::dark
     CH --> EMB["Embeddings"]:::violet
     EMB --> VDB["pgvector"]:::pink
-
     QUERY["Job Offer"]:::gold --> EMBQ["Query Embedding"]:::violet
     EMBQ --> VDB
-
     VDB --> RET["Semantic Retrieval"]:::cyan
     RET --> LLM["Gemini"]:::pink
     LLM --> SCORE["Matching / Analysis"]:::green
@@ -444,18 +434,23 @@ flowchart LR
     classDef gold fill:#F59E0B,color:#111827,stroke:#FBBF24;
     classDef green fill:#059669,color:#FFFFFF,stroke:#34D399;
     classDef dark fill:#111827,color:#F8FAFC,stroke:#64748B;
-<div align="center"> <img src="https://img.shields.io/badge/RAG-RETRIEVE%20%E2%86%92%20AUGMENT%20%E2%86%92%20GENERATE-7C3AED?style=for-the-badge&labelColor=111827"/> <img src="https://img.shields.io/badge/VECTOR%20DB-pgvector-0891B2?style=for-the-badge&labelColor=111827"/> <img src="https://img.shields.io/badge/LLM-Gemini-DB2777?style=for-the-badge&labelColor=111827"/> </div>
+```
 
 <div align="center">
+<img src="https://img.shields.io/badge/RAG-RETRIEVE%20%E2%86%92%20AUGMENT%20%E2%86%92%20GENERATE-7C3AED?style=for-the-badge&labelColor=111827"/>
+<img src="https://img.shields.io/badge/VECTOR%20DB-pgvector-0891B2?style=for-the-badge&labelColor=111827"/>
+<img src="https://img.shields.io/badge/LLM-Gemini-DB2777?style=for-the-badge&labelColor=111827"/>
+</div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=105&color=0:111827,35:312E81,70:7C3AED,100:0891B2&text=08%20%2F%2F%20GITHUB%20TELEMETRY&fontColor=FFFFFF&fontSize=28&fontAlignY=50&animation=fadeIn"/>
+<!-- ============================== 08 // GITHUB TELEMETRY ============================== -->
 
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=100&color=0:111827,30:312E81,65:7C3AED,100:0891B2&text=08%20%2F%2F%20GITHUB%20TELEMETRY&fontColor=FFFFFF&fontSize=26&fontAlignY=52&animation=fadeIn"/>
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2200&pause=950&color=A5B4FC&center=true&vCenter=true&width=900&lines=public+activity+%2F+commit+signal+%2F+repository+telemetry;live+engineering+footprint" alt="Telemetry animation"/>
 
 <br/>
 
 <img height="178" src="https://github-readme-stats.vercel.app/api?username=IhabChouaibi&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=F59E0B&text_color=E2E8F0&ring_color=7C3AED&rank_icon=github&include_all_commits=true" alt="GitHub stats"/>
-
 <img height="178" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IhabChouaibi&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=F472B6&text_color=E2E8F0" alt="Top languages"/>
 
 <br/><br/>
@@ -468,74 +463,88 @@ flowchart LR
 
 <br/><br/>
 
+<!-- Animated contribution snake — eats your commit graph, loops continuously -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IhabChouaibi/IhabChouaibi/output/github-contribution-grid-snake-dark.svg"/>
+  <img width="97%" alt="Contribution snake" src="https://raw.githubusercontent.com/IhabChouaibi/IhabChouaibi/output/github-contribution-grid-snake.svg"/>
+</picture>
+
+<sub>↑ generated by the <a href="https://github.com/Platane/snk">snk</a> GitHub Action — add the workflow to your profile repo to activate it.</sub>
+
+<br/><br/>
+
 <img width="97%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IhabChouaibi&theme=github_dark" alt="Profile details"/>
 
 </div>
 
+<!-- ============================== 09 // ENGINEERING PRINCIPLES ============================== -->
+
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=105&color=0:064E3B,45:047857,100:059669&text=09%20%2F%2F%20ENGINEERING%20PRINCIPLES&fontColor=FFFFFF&fontSize=28&fontAlignY=50&animation=fadeIn"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=100&color=0:064E3B,50:047857,100:059669&text=09%20%2F%2F%20ENGINEERING%20PRINCIPLES&fontColor=FFFFFF&fontSize=26&fontAlignY=52&animation=fadeIn"/>
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=1650&pause=700&color=6EE7B7&center=true&vCenter=true&width=920&lines=Design.+Secure.+Automate.+Observe.+Scale.;Engineering+quality+is+a+system+property." alt="Principles animation"/>
-
 </div>
 
-<table> <tr> <td align="center" width="20%"> <h3>🧩 DESIGN</h3> <sub>Boundaries before code.</sub> </td> <td align="center" width="20%"> <h3>🔐 SECURE</h3> <sub>Trust must be explicit.</sub> </td> <td align="center" width="20%"> <h3>⚙️ AUTOMATE</h3> <sub>Manual repetition is debt.</sub> </td> <td align="center" width="20%"> <h3>📡 OBSERVE</h3> <sub>Invisible systems are unmanageable.</sub> </td> <td align="center" width="20%"> <h3>🚀 SCALE</h3> <sub>Architecture must survive growth.</sub> </td> </tr> </table>
+<table>
+<tr>
+<td align="center" width="20%"><h3>🧩 DESIGN</h3><sub>Boundaries before code.</sub></td>
+<td align="center" width="20%"><h3>🔐 SECURE</h3><sub>Trust must be explicit.</sub></td>
+<td align="center" width="20%"><h3>⚙️ AUTOMATE</h3><sub>Manual repetition is debt.</sub></td>
+<td align="center" width="20%"><h3>📡 OBSERVE</h3><sub>Invisible systems are unmanageable.</sub></td>
+<td align="center" width="20%"><h3>🚀 SCALE</h3><sub>Architecture must survive growth.</sub></td>
+</tr>
+</table>
 
-<details> <summary><b>🧩 10 // DEEP TECH STACK</b></summary>
-
+<details>
+<summary><b>🧩 10 // DEEP TECH STACK</b></summary>
 <br/>
 
-Backend
+**Backend**
 Java 21 • Spring Boot • Spring Cloud • Spring Security • JPA • OpenFeign
 
-Platform
+**Platform**
 Docker • Kubernetes • Helm • Argo CD • ApplicationSets • GitOps
 
-Security
+**Security**
 Keycloak • OAuth2 • OIDC • JWT • RBAC • Gateway Security
 
-Data
+**Data**
 PostgreSQL • MySQL • pgvector • Redis • MinIO
 
-Messaging & Workflow
+**Messaging & Workflow**
 Kafka • Async Events • Flowable BPMN • Workflow Orchestration
 
-AI
+**AI**
 Spring AI • Gemini • RAG • Embeddings • Semantic Search
 
 </details>
 
-<details> <summary><b>⚡ 11 // DEVOPS COMMAND CENTER</b></summary>
-
+<details>
+<summary><b>⚡ 11 // DEVOPS COMMAND CENTER</b></summary>
 <br/>
 
+```bash
 git push origin feature/engineering
-
 mvn test
 docker build .
-
 git tag vX.Y.Z
 git push origin vX.Y.Z
-
 helm template ...
 argocd app sync ...
 kubectl get pods -A
-
 echo "repeatable • observable • secure"
+```
+
 </details>
 
+<!-- ============================== 12 // NETWORK ============================== -->
+
 <div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=100&color=0:4C1D95,30:7C3AED,60:DB2777,100:F59E0B&text=12%20%2F%2F%20NETWORK&fontColor=FFFFFF&fontSize=26&fontAlignY=52&animation=fadeIn"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=105&color=0:4C1D95,30:7C3AED,60:DB2777,100:F59E0B&text=12%20%2F%2F%20NETWORK&fontColor=FFFFFF&fontSize=28&fontAlignY=50&animation=fadeIn"/>
-
-<a href="https://www.linkedin.com/in/iheb-chouaibi-00b4632a2/"> <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
-
-<a href="https://github.com/IhabChouaibi"> <img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
-
-<a href="https://github.com/recruitment-organisation"> <img src="https://img.shields.io/badge/RECRUITMENT%20ORG-EXPLORE-7C3AED?style=for-the-badge&logo=github&logoColor=white"/> </a>
-
-<a href="https://github.com/hrms-organisation"> <img src="https://img.shields.io/badge/HRMS%20ORG-EXPLORE-0891B2?style=for-the-badge&logo=github&logoColor=white"/> </a>
+<a href="https://www.linkedin.com/in/iheb-chouaibi-00b4632a2/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/IhabChouaibi"><img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/recruitment-organisation"><img src="https://img.shields.io/badge/RECRUITMENT%20ORG-EXPLORE-7C3AED?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/hrms-organisation"><img src="https://img.shields.io/badge/HRMS%20ORG-EXPLORE-0891B2?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/><br/>
 
@@ -543,9 +552,10 @@ echo "repeatable • observable • secure"
 
 <br/>
 
-THE SYSTEM IS NEVER FINISHED — ONLY ITERATED.
+<sub><b>THE SYSTEM IS NEVER FINISHED — ONLY ITERATED.</b></sub>
+
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&section=footer&color=0:F59E0B,18:DB2777,38:7C3AED,58:0891B2,78:10B981,100:020617" alt="Footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=footer&color=0:F59E0B,20:DB2777,40:7C3AED,60:0891B2,80:10B981,100:020617" alt="Footer"/>
 
 </div>
